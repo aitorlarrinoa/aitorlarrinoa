@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Aitor Larrinoa Rementeria and I'm 25 years old. 
+- 👋 Hi, I’m Aitor Larrinoa Rementeria and I'm 26 years old. 
 - 📚 I'm a mathematician with a master's degree in data science.
-- 📈 I am a data scientist with more than 2 years of experience in insurance and retail industries.
+- 📈 I am a data scientist with more than 3 years of experience in insurance and retail industries.
 - 📫 The way to contact me: 
      - My personal email is *aitorlarrinoa231@gmail.com*.
 
